@@ -34,7 +34,7 @@ Submit button becomes disabled after score is submitted to highscores to prevent
 
 ## Installation
 
-Please use the following link to access the website: https://e-davies.github.io/Code-Quiz/
+Please use the following link to access the website: https://this-girl-shall-code.github.io/code-quiz/
 
 ## Usage
 
